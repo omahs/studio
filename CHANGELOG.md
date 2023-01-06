@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+## [0.358.1](https://github.com/Zapper-fi/studio/compare/v0.358.0...v0.358.1) (2023-01-06)
+
+
+### Bug Fixes
+
+* **hakuswap:** Add xHaku app token ([#2067](https://github.com/Zapper-fi/studio/issues/2067)) ([4f35868](https://github.com/Zapper-fi/studio/commit/4f35868b547ac3e5523582c7769880d118d51954))
+
 ## [0.358.0](https://github.com/Zapper-fi/studio/compare/v0.357.0...v0.358.0) (2023-01-06)
 
 
